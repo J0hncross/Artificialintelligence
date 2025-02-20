@@ -1,4 +1,4 @@
-Setiap folder dapat menyangkut beberapa aspek AI diantaranya 
+Setiap file ipynb dapat menyangkut beberapa aspek AI diantaranya 
 1. analisis data statistikk
 2. machine learning untuk prediksi dan klasifikasi
 3. Deep Learning dengan CNN untuk Gambar
